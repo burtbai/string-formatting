@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.burtbai.stringformatting.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.burtbai.stringformatting.MyBundle
 
 class MyApplicationService {
 
